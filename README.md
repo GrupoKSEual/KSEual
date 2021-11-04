@@ -16,7 +16,7 @@ Disponemos de un laboratorio propio de investigación, ubicado en la propia univ
 
 Contamos con experiencia en proyectos de investigación nacionales e internaciones y contratos de transferencia tecnológica con empresas públicas y privadas, focalizados en el dominio de los sistemas de información en agricultura. 
 
-## Líneas 
+## Líneas de investigación
 
 Las principales líneas de investigación de los miembros del grupo son:
 
@@ -26,7 +26,7 @@ Las principales líneas de investigación de los miembros del grupo son:
 - Ingeniería del software basada en búsqueda, en especial aplicada al ámbito de la ingeniería de requisitos
 - Sistemas de información agrarios.
 
-## Miembros 
+## Miembros del grupo y colaboradores
 
  - [Isabel María del Águila Cano](http://brujula.ual.es/authors/8.html), 
  - [Joaquin Cañadas Martínez](http://brujula.ual.es/authors/139.html),
