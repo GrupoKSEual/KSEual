@@ -19,7 +19,7 @@
 
 - [Presentación](#Presentación)
 - [Líneas de investigación](#Líneas)
-- [Miembroscolaboradores](#Miembros del grupo y colaboradores)
+- [Miembros del grupo y colaboradores](#Miembros)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 - [Creators](#creators)
@@ -38,7 +38,7 @@ Contamos con experiencia en proyectos de investigación nacionales e internacion
 
 ## Líneas 
 
-de investigación
+Las principales líneas de investigación de los miembros del grupo son:
 
 - Integración de metodologías de ingeniería del software e ingeniería del conocimiento.
 - Sistemas basados en conocimiento. Adquisición, modelado y gestión del conocimiento en dominios agrícolas.
@@ -48,7 +48,7 @@ de investigación
 
 
 
-## Miembros del grupo y colaboradores
+## Miembros 
 
 Some text
 
