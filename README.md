@@ -40,10 +40,5 @@ Las principales líneas de investigación de los miembros del grupo son:
 
  - [Isabel María del Águila Cano](http://brujula.ual.es/authors/8.html), 
  
- maintained by [Main author](https://github.com/usernamemainauthor).
-
-Editor preferences are available in the [editor config](https://reponame/blob/master/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
 
-
-Enjoy :metal:
