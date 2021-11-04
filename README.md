@@ -30,7 +30,8 @@ Las principales líneas de investigación de los miembros del grupo son:
 
 ## Miembros del grupo y colaboradores
 
- - [Isabel María del Águila Cano](http://brujula.ual.es/authors/8.html), 
+ 
+ - [Isabel Maria del Águila Cano](imaguila.md)
  - [Joaquin Cañadas Martínez](http://brujula.ual.es/authors/139.html),
  
 
