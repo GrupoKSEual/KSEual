@@ -5,14 +5,6 @@
 
   <h3 align="center">Grupo de investigación TIC- 181: Ingeniería del Conocimiento y del Software</h3>
 
-  <p align="center">
-    Short description
-    <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
-    ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
-  </p>
-</p>
 
 
 ## Table of contents
