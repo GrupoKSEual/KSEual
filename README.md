@@ -4,7 +4,7 @@
 
 # Grupo de investigación TIC- 181: Ingeniería del Conocimiento y del Software
 
-- [Presentación](##Presentación)
+- [Presentación](#Presentación)
 - [Líneas de investigación](#Líneas)
 - [Miembros del grupo y colaboradores](#Miembros)
 
@@ -29,6 +29,7 @@ Las principales líneas de investigación de los miembros del grupo son:
 ## Miembros 
 
  - [Isabel María del Águila Cano](http://brujula.ual.es/authors/8.html), 
+ - [Joaquin Cañadas Martínez](http://brujula.ual.es/authors/139.html),
  
 
 
