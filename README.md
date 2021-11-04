@@ -2,9 +2,7 @@
 
 ![Foto 1](logoconuni.png)
 
-  <h3 align="center">Grupo de investigación TIC- 181: Ingeniería del Conocimiento y del Software</h3>
-
-
+# Grupo de investigación TIC- 181: Ingeniería del Conocimiento y del Software
 
 
 
