@@ -18,7 +18,7 @@
 ## Table of contents
 
 - [Presentación](#Presentación)
-- [Lineas](#Líneas de investigación)
+- [Líneas de investigación](#Líneas de investigación)
 - [Miembroscolaboradores](#Miembros del grupo y colaboradores)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
@@ -34,6 +34,7 @@ Los componentes del grupo tenemos una amplia experiencia en Inteligencia Artific
 Disponemos de un laboratorio propio de investigación, ubicado en la propia universidad para dar soporte tanto a alumnos y profesores que desarrollen trabajos dentro de nuestro grupo. 
 
 Contamos con experiencia en proyectos de investigación nacionales e internaciones y contratos de transferencia tecnológica con empresas públicas y privadas, focalizados en el dominio de los sistemas de información en agricultura. 
+
 
 ## Líneas de investigación
 
