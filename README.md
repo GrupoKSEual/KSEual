@@ -3,7 +3,7 @@
     <img src="https://github.com/GrupoKSEual/KSEual/blob/master/logoconuni.png" alt="Logo" width=200 height=100>
   </a>
 
-  <h3 align="center">Grupo de investigación TIC- 181: Ingeniería del Conocimiento e Ingeniería del Software</h3>
+  <h3 align="center">Grupo de investigación TIC- 181: Ingeniería del Conocimiento y del Software</h3>
 
   <p align="center">
     Short description
@@ -18,8 +18,8 @@
 ## Table of contents
 
 - [Presentación](#Presentación)
-- [Líneas de investigación](#status)
-- [Miembros del grupo](#whats-included)
+- [Líneas de investigación](#Líneas de investigación)
+- [Miembros del grupo y colaboradores](#Miembros del grupo y colaboradores)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 - [Creators](#creators)
@@ -35,17 +35,18 @@ Disponemos de un laboratorio propio de investigación, ubicado en la propia univ
 
 Contamos con experiencia en proyectos de investigación nacionales e internaciones y contratos de transferencia tecnológica con empresas públicas y privadas, focalizados en el dominio de los sistemas de información en agricultura. 
 
-## Status
+## Líneas de investigación
 
-Some text
 
-- Instruction 1
-- Instruction 2
-- Instruction 3
+- Integración de metodologías de ingeniería del software e ingeniería del conocimiento.
+- Sistemas basados en conocimiento. Adquisición, modelado y gestión del conocimiento en dominios agrícolas.
+- Análisis de datos. Algoritmos de Optimización y técnicas de clasificación y agrupamiento .
+- Ingeniería del software basada en búsqueda, en especial aplicada al ámbito de la ingeniería de requisitos
+- Sistemas de información agrarios.
 
-Here goes all the budgets
 
-## What's included
+
+## Miembros del grupo y colaboradores
 
 Some text
 
