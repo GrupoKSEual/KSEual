@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://example.com/">
-    <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
+    <img src="https://github.com/GrupoKSEual/KSEual/blob/master/logoconuni.png" alt="Logo" width=72 height=72>
   </a>
 
   <h3 align="center">Logo</h3>
@@ -17,9 +17,9 @@
 
 ## Table of contents
 
-- [Quick start](#quick-start)
-- [Status](#status)
-- [What's included](#whats-included)
+- [Presentación](#quick-start)
+- [Líneas de investigación](#status)
+- [Miembros del grupo](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 - [Creators](#creators)
