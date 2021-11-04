@@ -18,7 +18,7 @@
 ## Table of contents
 
 - [Presentación](#Presentación)
-- [Líneas de investigación](#Líneas de investigación)
+- [Líneas de investigación](#Líneas)
 - [Miembroscolaboradores](#Miembros del grupo y colaboradores)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
