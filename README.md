@@ -4,7 +4,7 @@
 
 # Grupo de investigación TIC- 181: Ingeniería del Conocimiento y del Software
 
-- [Presentación](#Presentación)
+- [Presentación](##Presentación)
 - [Líneas de investigación](#Líneas)
 - [Miembros del grupo y colaboradores](#Miembros)
 
