@@ -18,8 +18,8 @@
 ## Table of contents
 
 - [Presentación](#Presentación)
-- [Líneas de investigación](#Líneas de investigación)
-- [Miembros del grupo y colaboradores](#Miembros del grupo y colaboradores)
+- [Líneasinvestigación](#Líneas de investigación)
+- [Miembroscolaboradores](#Miembros del grupo y colaboradores)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Contributing](#contributing)
 - [Creators](#creators)
