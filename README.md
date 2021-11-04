@@ -1,6 +1,6 @@
-<p align="center">
-    <img src="https://github.com/GrupoKSEual/KSEual/blob/master/logoconuni.png" alt="Logo" width=200 height=100>
-  </a>
+
+
+![Foto 1](logoconuni.png
 
   <h3 align="center">Grupo de investigación TIC- 181: Ingeniería del Conocimiento y del Software</h3>
 
