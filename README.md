@@ -36,7 +36,9 @@ Disponemos de un laboratorio propio de investigación, ubicado en la propia univ
 Contamos con experiencia en proyectos de investigación nacionales e internaciones y contratos de transferencia tecnológica con empresas públicas y privadas, focalizados en el dominio de los sistemas de información en agricultura. 
 
 
-## Líneas de investigación
+## Líneas 
+
+de investigación
 
 - Integración de metodologías de ingeniería del software e ingeniería del conocimiento.
 - Sistemas basados en conocimiento. Adquisición, modelado y gestión del conocimiento en dominios agrícolas.
