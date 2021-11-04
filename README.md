@@ -1,16 +1,12 @@
 
 
-![Foto 1](logoconuni.png)
+![](logoconuni.png)
 
 # Grupo de investigación TIC- 181: Ingeniería del Conocimiento y del Software
-
-
 
 - [Presentación](#Presentación)
 - [Líneas de investigación](#Líneas)
 - [Miembros del grupo y colaboradores](#Miembros)
-
-
 
 ## Presentación
 
@@ -19,7 +15,6 @@ Los componentes del grupo tenemos una amplia experiencia en Inteligencia Artific
 Disponemos de un laboratorio propio de investigación, ubicado en la propia universidad para dar soporte tanto a alumnos y profesores que desarrollen trabajos dentro de nuestro grupo. 
 
 Contamos con experiencia en proyectos de investigación nacionales e internaciones y contratos de transferencia tecnológica con empresas públicas y privadas, focalizados en el dominio de los sistemas de información en agricultura. 
-
 
 ## Líneas 
 
@@ -30,8 +25,6 @@ Las principales líneas de investigación de los miembros del grupo son:
 - Análisis de datos. Algoritmos de Optimización y técnicas de clasificación y agrupamiento .
 - Ingeniería del software basada en búsqueda, en especial aplicada al ámbito de la ingeniería de requisitos
 - Sistemas de información agrarios.
-
-
 
 ## Miembros 
 
