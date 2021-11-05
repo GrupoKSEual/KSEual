@@ -35,11 +35,11 @@ Las principales líneas de investigación de los miembros del grupo son:
  
  - [Isabel Maria del Águila Cano](miembros/imaguila.md) (Investigador Principal) 
  - Acebedo Vaz, Martin 
- - Bosch Aran, Alfonso 
+ - [Bosch Aran, Alfonso](http://brujula.ual.es/authors/104.html)
  - [Joaquin Cañadas Martínez](http://brujula.ual.es/authors/139.html),
- - Guil Reyes, Francisco Gabriel 
- - Martínez-Santaolalla Martínez, Manuel José 
- - Orellana Zubieta, Francisco Javier (Colaborador)
- - Túnez Rodríguez, Samuel (Colaborador)
+ - [Guil Reyes, Francisco Gabriel](http://brujula.ual.es/authors/439.html)
+ - [Martínez-Santaolalla Martínez, Manuel José](http://brujula.ual.es/authors/3577.html)
+ - [Orellana Zubieta, Francisco Javier] (Colaborador)
+ - [Túnez Rodríguez, Samuel](http://brujula.ual.es/authors/970.html) (Colaborador)
 
 
