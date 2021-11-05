@@ -1,6 +1,6 @@
 
 
-![](http://brujula.ual.es/research-groups/7-ingenieria-de-datos--del-conocimiento-y-del-software)(logoconuni.png)
+![](logoconuni.png)(http://brujula.ual.es/research-groups/7-ingenieria-de-datos--del-conocimiento-y-del-software)
 
 # Grupo de investigación TIC- 181: Ingeniería del Conocimiento y del Software
 
