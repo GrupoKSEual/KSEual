@@ -38,8 +38,8 @@ Las principales líneas de investigación de los miembros del grupo son:
  - [Bosch Aran, Alfonso](http://brujula.ual.es/authors/104.html)
  - [Joaquin Cañadas Martínez](http://brujula.ual.es/authors/139.html),
  - [Guil Reyes, Francisco Gabriel](http://brujula.ual.es/authors/439.html)
- - Martínez-Santaolalla Martínez, Manuel José
- - [José del Sagrado Martínez]() (Colaborador de otros grupos de la UAL)
+ - [Martínez-Santaolalla Martínez, Manuel José]()
+ - [José del Sagrado Martínez](http://brujula.ual.es/authors/874.html?sortBy=dateDesc&pageType=book_chapter_thesis#publication-45888) (Colaborador de otros grupos de la UAL)
  - [Orellana Zubieta, Francisco Javier](https://www.researchgate.net/profile/Francisco-Orellana-2) (Colaborador)
  - [Túnez Rodríguez, Samuel](http://brujula.ual.es/authors/970.html) (Colaborador)
 
