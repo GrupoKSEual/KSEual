@@ -27,13 +27,13 @@ Las principales líneas de investigación de los miembros del grupo son:
 - Integración de metodologías de ingeniería del software e ingeniería del conocimiento.
 - Sistemas basados en conocimiento. Adquisición, modelado y gestión del conocimiento en dominios agrícolas.
 - Análisis de datos. Algoritmos de Optimización y técnicas de clasificación y agrupamiento .
-- Ingeniería del software basada en búsqueda, en especial aplicada al ámbito de la ingeniería de requisitos
+- [Ingeniería del software basada en búsqueda, en especial aplicada al ámbito de la ingeniería de requisitos](/lineas/sbse.md)
 - Sistemas de información agrarios.
 
 ## Miembros del grupo y colaboradores
 
  
- - [Isabel Maria del Águila Cano](miembros/imaguila.md) (Investigador Principal) 
+ - [Isabel María del Águila Cano](miembros/imaguila.md) (Investigador Principal) 
  - [Acebedo Vaz, Martin](https://www.scopus.com/authid/detail.uri?authorId=7801527694)
  - [Bosch Aran, Alfonso](http://brujula.ual.es/authors/104.html)
  - [Joaquin Cañadas Martínez](http://brujula.ual.es/authors/139.html),
