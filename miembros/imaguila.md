@@ -3,6 +3,7 @@
 
 ### Publicaciones
 
-- [Isabel María del Águila Cano](http://brujula.ual.es/authors/8.html),
+[Isabel María del Águila Cano](http://brujula.ual.es/authors/8.html),
+
  &ensp;&ensp;&ensp; <img src="/iconos/orcid.png" style="width:50px;height:50px;">[0000-0001-9896-7196](https://orcid.org/0000-0001-9896-7196)
   &ensp;&ensp;&ensp; <img src="/iconos/scholar.jpg" style="width:50px;height:50px;">[link](https://scholar.google.es/citations?user=7x1-0GsAAAAJ&hl=es)
