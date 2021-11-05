@@ -1,6 +1,6 @@
 
 
-  [<img src="logoconuni.png">](http://brujula.ual.es/research-groups/7-ingenieria-de-datos--del-conocimiento-y-del-software)
+  [<img src="iconos/logoconuni.png">](http://brujula.ual.es/research-groups/7-ingenieria-de-datos--del-conocimiento-y-del-software)
 
 
 # Grupo de investigación TIC- 181: Ingeniería del Conocimiento y del Software
@@ -33,7 +33,7 @@ Las principales líneas de investigación de los miembros del grupo son:
 ## Miembros del grupo y colaboradores
 
  
- - [Isabel Maria del Águila Cano](imaguila.md) (Investigador Principal) 
+ - [Isabel Maria del Águila Cano](miembros/imaguila.md) (Investigador Principal) 
  - Acebedo Vaz, Martin 
  - Bosch Aran, Alfonso 
  - [Joaquin Cañadas Martínez](http://brujula.ual.es/authors/139.html),
