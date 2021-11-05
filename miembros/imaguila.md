@@ -4,4 +4,4 @@
 ### Publicaciones
 
 - [Isabel María del Águila Cano](http://brujula.ual.es/authors/8.html),
-- &ensp;&ensp;&ensp; <img src="/iconos/orcid.png" style="width:70px;height:80px;">[0000-0001-9896-7196](https://orcid.org/0000-0001-9896-7196)
+- &ensp;&ensp;&ensp; <img src="/iconos/orcid.png" style="width:50px;height:50px;">[0000-0001-9896-7196](https://orcid.org/0000-0001-9896-7196)
