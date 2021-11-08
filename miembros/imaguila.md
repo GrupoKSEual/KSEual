@@ -5,7 +5,8 @@
 
 [Isabel María del Águila Cano](http://brujula.ual.es/authors/8.html),
 
- <img src="/iconos/orcid.png" style="width:40px;height:40px;">[0000-0001-9896-7196](https://orcid.org/0000-0001-9896-7196)
+ ![ ](/iconos/orcid.png)
+[0000-0001-9896-7196](https://orcid.org/0000-0001-9896-7196)
  
  [<img src="https://github.com/GrupoKSEual/KSEual/blob/2a1efd3ca8c5fc5ade0f25938f0afde884893596/iconos/scholar.jpg" style="width:40px;height:40px;">](https://scholar.google.es/citations?user=7x1-0GsAAAAJ&hl=es)
  
