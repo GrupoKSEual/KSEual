@@ -12,5 +12,5 @@
  
  ![ ](/iconos/scp.png) [56575686500](https://www.scopus.com/authid/detail.uri?authorId=56575686500)
 
-### Breve biografía
+
 
