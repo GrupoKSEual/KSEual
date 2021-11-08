@@ -11,3 +11,6 @@
  ![ ](/iconos/sc.png) [Scholar](https://scholar.google.es/citations?user=7x1-0GsAAAAJ&hl=es)
  
  ![ ](/iconos/scp.png) [56575686500](https://www.scopus.com/authid/detail.uri?authorId=56575686500)
+
+### Breve biografía
+
