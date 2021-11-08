@@ -8,6 +8,6 @@
  ![ ](/iconos/orcid.png)
 [0000-0001-9896-7196](https://orcid.org/0000-0001-9896-7196)
  
- ![ ](/iconos/scholar.png) [Scholar](https://scholar.google.es/citations?user=7x1-0GsAAAAJ&hl=es)
+ ![ ](/iconos/scholar.jpg) [Scholar](https://scholar.google.es/citations?user=7x1-0GsAAAAJ&hl=es)
  
- ![ ](/iconos/scopus.png) [56575686500](https://www.scopus.com/authid/detail.uri?authorId=56575686500)
+ ![ ](/iconos/scopus.jpg) [56575686500](https://www.scopus.com/authid/detail.uri?authorId=56575686500)
