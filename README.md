@@ -25,8 +25,8 @@ Contamos con experiencia en proyectos de investigación nacionales e internacion
 Las principales líneas de investigación de los miembros del grupo son:
 
 - Integración de metodologías de ingeniería del software e ingeniería del conocimiento.
-- Sistemas basados en conocimiento. Adquisición, modelado y gestión del conocimiento en dominios agrícolas.
-- [Análisis de datos. Algoritmos de Optimización y técnicas de clasificación y agrupamiento](/lineas/agro.md)
+- [Sistemas basados en conocimiento. Adquisición, modelado y gestión del conocimiento en dominios agrícolas](/lineas/agro.md)
+- Análisis de datos. Algoritmos de Optimización y técnicas de clasificación y agrupamiento
 - [Ingeniería del software basada en búsqueda, en especial aplicada al ámbito de la ingeniería de requisitos](/lineas/sbse.md)
 - Sistemas de información agrarios.
 
