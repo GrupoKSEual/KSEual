@@ -5,3 +5,5 @@ La **ingeniería de software basada en búsqueda** (en inglés, **SBSE**) surge 
 Nuestro grupo, en especial [Isabel María del Águila Cano](http://brujula.ual.es/authors/8.html), y  [José del Sagrado Martínez](http://brujula.ual.es/authors/874.html?sortBy=dateDesc&pageType=book_chapter_thesis#publication-45888)  como colaborador desde otro grupo de investigación de la *Univesidad de Almeria* vienen participando activamente en esta disciplina desde el primer congreso internacional organizado en Londres en el 2001.
 
 Actualmente estan adscritos a la [**Red de Excelencia en Ingeniería de Software basada en Búsqueda**](http://www.uco.es/investigacion/proyectos/SEBASENet/index.php?title=P%C3%A1gina_principal) a nivel nacional.
+
+**negrita**
