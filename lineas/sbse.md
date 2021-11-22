@@ -6,4 +6,4 @@ Nuestro grupo, en especial [Isabel María del Águila Cano](http://brujula.ual.e
 
 Actualmente estan adscritos a la [**Red de Excelencia en Ingeniería de Software basada en Búsqueda**](http://www.uco.es/investigacion/proyectos/SEBASENet/index.php?title=P%C3%A1gina_principal) a nivel nacional.
 
-**negrita**
+
