@@ -10,9 +10,7 @@
  - Scopus [56575686500](https://www.scopus.com/authid/detail.uri?authorId=56575686500)
  
  - Web of Science ResearcherID [A-9740-2015](https://publons.com/researcher/2443134/isabel-m-del-aguila/)
- 
-  <span id="badgeCont929"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont929&rid=A-9740-2015"></script></span>
- 
+  
  - [Dialnet](https://dialnet.unirioja.es/servlet/autor?codigo=2120760)
 
 
